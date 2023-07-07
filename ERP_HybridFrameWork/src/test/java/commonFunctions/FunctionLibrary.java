@@ -208,19 +208,19 @@ public class FunctionLibrary {
 	}
 	public static void add()
 	{
-		int a=345,b=67,c;
+		int a=75676,b=6,c;
 		c=a+b;
 		System.out.println(c);
 	}
 	public static void div()
 	{
-		int a=566,b=89,c;
+		int a=590,b=4,c;
 		c=a+b;
 		System.out.println(c);
 	}
 	public static void mul()
 	{
-		int a=54354,b=7,c;
+		int a=45,b=8,c;
 		c=a+b;
 		System.out.println(c);
 	}
