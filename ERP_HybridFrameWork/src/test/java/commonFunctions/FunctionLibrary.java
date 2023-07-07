@@ -206,6 +206,24 @@ public class FunctionLibrary {
 		return df.format(date);
 				
 	}
+	public static void add()
+	{
+		int a=345,b=67,c;
+		c=a+b;
+		System.out.println(c);
+	}
+	public static void div()
+	{
+		int a=566,b=89,c;
+		c=a+b;
+		System.out.println(c);
+	}
+	public static void mul()
+	{
+		int a=54354,b=7,c;
+		c=a+b;
+		System.out.println(c);
+	}
 }
 
 
